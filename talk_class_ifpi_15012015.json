@@ -1,0 +1,517 @@
+{
+  "slides": [
+    {
+      "components": [
+        {
+          "src": "https://i.imgur.com/ZOpOYFs.png",
+          "type": "Image",
+          "x": 224,
+          "y": 188,
+          "scale": {
+            "x": 0.3453698311007571,
+            "y": 0.3453698311007571,
+            "width": 592.9999999999999,
+            "height": 314.28654630168893
+          },
+          "imageType": "PNG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 0,
+      "selected": false,
+      "active": false,
+      "x": 180,
+      "y": 180
+    },
+    {
+      "components": [
+        {
+          "src": "https://i.imgur.com/ZOpOYFs.png",
+          "type": "Image",
+          "x": 11,
+          "y": -5,
+          "scale": {
+            "x": 0.1525917297612114,
+            "y": 0.1525917297612114,
+            "width": 262,
+            "height": 138.85847408270237
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 7,
+          "y": 336,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<font face=\"Ubuntu\">Criando uma solução IoT em nuvem&nbsp;com<br></font>mqtt + micropython + esp8266 + nodered<br>",
+          "size": 54,
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": -1.18,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 1,
+      "selected": false,
+      "active": false,
+      "x": 740,
+      "y": 180
+    },
+    {
+      "components": [
+        {
+          "src": "https://i.imgur.com/ZOpOYFs.png",
+          "type": "Image",
+          "x": 11,
+          "y": -5,
+          "scale": {
+            "x": 0.1525917297612114,
+            "y": 0.1525917297612114,
+            "width": 262,
+            "height": 138.85847408270237
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 426,
+          "y": 122,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<font face=\"Ubuntu\">whoami</font>",
+          "size": 67,
+          "selected": false
+        },
+        {
+          "src": "https://i.imgur.com/zQs99FH.jpg",
+          "type": "Image",
+          "x": 17,
+          "y": 228,
+          "scale": {
+            "x": 0.24814814814814812,
+            "y": 0.24814814814814812,
+            "width": 267.99999999999994,
+            "height": 476.4444444444444
+          },
+          "imageType": "JPG",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 335,
+          "y": 332,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<font face=\"Ubuntu\">* IoT professional<br>* DevOps<br>* Businessman<br>* Linux and Open SW/HR lover<br></font>",
+          "size": 48,
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 2,
+      "selected": false,
+      "active": false
+    },
+    {
+      "components": [
+        {
+          "src": "https://i.imgur.com/ZOpOYFs.png",
+          "type": "Image",
+          "x": 11,
+          "y": -5,
+          "scale": {
+            "x": 0.1525917297612114,
+            "y": 0.1525917297612114,
+            "width": 262,
+            "height": 138.85847408270237
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "src": "https://cdn-learn.adafruit.com/assets/assets/000/025/445/medium800/microcontrollers_esp8266_python.jpg?1431460774",
+          "type": "Image",
+          "x": 109,
+          "y": 144,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 3,
+      "selected": false,
+      "active": false
+    },
+    {
+      "components": [
+        {
+          "src": "https://www.allaboutcircuits.com/uploads/articles/Introduction-to-the-MQTT-Protocol-on-NodeMCU-(1).png",
+          "type": "Image",
+          "x": 19,
+          "y": 117,
+          "scale": {
+            "x": 0.5849849849849851,
+            "y": 0.5849849849849851,
+            "width": 974.0000000000001,
+            "height": 634.7087087087089
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "src": "https://i.imgur.com/ZOpOYFs.png",
+          "type": "Image",
+          "x": 12,
+          "y": -5,
+          "scale": {
+            "x": 0.1525917297612114,
+            "y": 0.1525917297612114,
+            "width": 262,
+            "height": 138.85847408270237
+          },
+          "imageType": "PNG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 4,
+      "selected": false,
+      "active": false
+    },
+    {
+      "components": [
+        {
+          "src": "https://i.imgur.com/ZOpOYFs.png",
+          "type": "Image",
+          "x": 12,
+          "y": -5,
+          "scale": {
+            "x": 0.1525917297612114,
+            "y": 0.1525917297612114,
+            "width": 262,
+            "height": 138.85847408270237
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "src": "https://i0.wp.com/randomnerdtutorials.com/wp-content/uploads/2017/03/DHT22_RaspberryPi_ESP8266.jpg",
+          "type": "Image",
+          "x": -20,
+          "y": 153,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "imageType": "JPG",
+          "selected": false
+        },
+        {
+          "src": "http://micropython-iot-hackathon.readthedocs.io/en/latest/_images/mqtt-example.png",
+          "type": "Image",
+          "x": 150,
+          "y": 363,
+          "scale": {
+            "x": 1.1712439418416802,
+            "y": 1.1712439418416802,
+            "width": 725.0000000000001,
+            "height": 427.5040387722133
+          },
+          "imageType": "PNG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 5,
+      "selected": false,
+      "active": false
+    },
+    {
+      "components": [
+        {
+          "src": "https://www.hivemq.com/wp-content/uploads/connect.png",
+          "type": "Image",
+          "x": 343,
+          "y": 30,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "src": "https://i.imgur.com/ZOpOYFs.png",
+          "type": "Image",
+          "x": 12,
+          "y": -5,
+          "scale": {
+            "x": 0.1525917297612114,
+            "y": 0.1525917297612114,
+            "width": 262,
+            "height": 138.85847408270237
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "src": "https://www.hivemq.com/wp-content/uploads/topic_basics.png",
+          "type": "Image",
+          "x": -46,
+          "y": 294,
+          "scale": {
+            "x": 1.20625,
+            "y": 1.20625,
+            "width": 772,
+            "height": 179.73125000000002
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "src": "https://www.hivemq.com/wp-content/uploads/topic_wildcard_plus_example.png",
+          "type": "Image",
+          "x": 313,
+          "y": 507,
+          "scale": {
+            "x": 1.6375,
+            "y": 1.6375,
+            "width": 655,
+            "height": 209.6
+          },
+          "imageType": "PNG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 6,
+      "selected": false,
+      "active": false
+    },
+    {
+      "components": [
+        {
+          "src": "https://image.slidesharecdn.com/zvimqttsforeuc2013-131111133217-phpapp01/95/http1push-building-wireless-sensor-networks-with-mqttsn-raspberrypi-and-erlang-15-638.jpg?cb=1453423362",
+          "type": "Image",
+          "x": 141,
+          "y": 167,
+          "scale": {
+            "x": 1.1551724137931034,
+            "y": 1.1551724137931034,
+            "width": 737,
+            "height": 553.3275862068965
+          },
+          "imageType": "JPG",
+          "selected": false
+        },
+        {
+          "src": "https://i.imgur.com/ZOpOYFs.png",
+          "type": "Image",
+          "x": 12,
+          "y": -5,
+          "scale": {
+            "x": 0.1525917297612114,
+            "y": 0.1525917297612114,
+            "width": 262,
+            "height": 138.85847408270237
+          },
+          "imageType": "PNG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 7,
+      "selected": false,
+      "active": false
+    },
+    {
+      "components": [
+        {
+          "src": "http://www.internetoflego.com/wp-content/uploads/2016/08/Node-RED-RFID-Flow-with-UI.png",
+          "type": "Image",
+          "x": -13,
+          "y": 21,
+          "scale": {
+            "x": 0.5734341252699785,
+            "y": 0.5734341252699785,
+            "width": 1062.0000000000002,
+            "height": 697.2958963282939
+          },
+          "imageType": "PNG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 8,
+      "selected": false,
+      "active": false,
+      "background": "bg-transparent"
+    },
+    {
+      "components": [
+        {
+          "src": "https://lh3.googleusercontent.com/eeiRFd_c2Gord82e_LGjOOsbvvK9zGIBgdoBZCnlVMUsBEycePON9XVk8CSc5tEN1g=h900-rw",
+          "type": "Image",
+          "x": 659,
+          "y": 160,
+          "scale": {
+            "x": 0.6629629629629632,
+            "y": 0.6629629629629632,
+            "width": 358.0000000000001,
+            "height": 596.6666666666669
+          },
+          "imageType": "COM/EEIRFD_C2GORD82E_LGJOOSBVVK9ZGIBGDOBZCNLVMUSBEYCEPON9XVK8CSC5TEN1G=H900-RW",
+          "selected": false
+        },
+        {
+          "src": "https://i.imgur.com/ZOpOYFs.png",
+          "type": "Image",
+          "x": 12,
+          "y": -5,
+          "scale": {
+            "x": 0.1525917297612114,
+            "y": 0.1525917297612114,
+            "width": 262,
+            "height": 138.85847408270237
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "src": "https://i.pinimg.com/originals/bc/f2/f1/bcf2f193ea172b7139b93e42f03f39fc.png",
+          "type": "Image",
+          "x": 12,
+          "y": 166,
+          "scale": {
+            "x": 0.8811881188118813,
+            "y": 0.8811881188118813,
+            "width": 623.0000000000001,
+            "height": 585.1089108910892
+          },
+          "imageType": "PNG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 9,
+      "selected": true,
+      "active": true
+    }
+  ],
+  "activeSlide": {
+    "components": [
+      {
+        "src": "https://lh3.googleusercontent.com/eeiRFd_c2Gord82e_LGjOOsbvvK9zGIBgdoBZCnlVMUsBEycePON9XVk8CSc5tEN1g=h900-rw",
+        "type": "Image",
+        "x": 659,
+        "y": 160,
+        "scale": {
+          "x": 0.6629629629629632,
+          "y": 0.6629629629629632,
+          "width": 358.0000000000001,
+          "height": 596.6666666666669
+        },
+        "imageType": "COM/EEIRFD_C2GORD82E_LGJOOSBVVK9ZGIBGDOBZCNLVMUSBEYCEPON9XVK8CSC5TEN1G=H900-RW",
+        "selected": false
+      },
+      {
+        "src": "https://i.imgur.com/ZOpOYFs.png",
+        "type": "Image",
+        "x": 12,
+        "y": -5,
+        "scale": {
+          "x": 0.1525917297612114,
+          "y": 0.1525917297612114,
+          "width": 262,
+          "height": 138.85847408270237
+        },
+        "imageType": "PNG",
+        "selected": false
+      },
+      {
+        "src": "https://i.pinimg.com/originals/bc/f2/f1/bcf2f193ea172b7139b93e42f03f39fc.png",
+        "type": "Image",
+        "x": 12,
+        "y": 166,
+        "scale": {
+          "x": 0.8811881188118813,
+          "y": 0.8811881188118813,
+          "width": 623.0000000000001,
+          "height": 585.1089108910892
+        },
+        "imageType": "PNG",
+        "selected": false
+      }
+    ],
+    "z": 0,
+    "impScale": 3,
+    "rotateX": 0,
+    "rotateY": 0,
+    "rotateZ": 0,
+    "index": 9,
+    "selected": true,
+    "active": true
+  },
+  "fileName": "talk_class_ifpi_15012015",
+  "deckVersion": "1.0",
+  "customBackgrounds": {
+    "bgs": []
+  },
+  "overviewX": 460,
+  "overviewY": 180
+}
