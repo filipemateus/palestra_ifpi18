@@ -9,28 +9,55 @@
 * APP <> Exchange (API)
 
 -----
+
+
 * First Step - Upload the Firmware
 > Write [micropython](http://micropython.org) on [esp8266](http://espressif.com/en/products/hardware/esp8266ex/overview)
 
 ![](https://s3-sa-east-1.amazonaws.com/robocore-lojavirtual/789/images/789_1_H.png)
 
-* 1. [Getting started with MicroPython on the ESP8266] (http://docs.micropython.org/en/latest/esp8266/esp8266/tutorial/intro.html)
+* [Getting started with MicroPython on the ESP8266] (http://docs.micropython.org/en/latest/esp8266/esp8266/tutorial/intro.html)
+
+------
 
 
 * Second Step - Sensor code
 
+
+
+
+
+------
+
+
 * Third Step - Running under Docker
 > Follwing docs [guide](https://nodered.org/docs/platforms/docker)
 
+
+
+
+
+-------
+
+
 * Fourth Step - Broker
+
+
+
+
+
+-------
 
 * Fifth Step - HandsOn !!
 
 
 
+
+
 * refs
-´´´
-* https://fazerlab.wordpress.com/2017/10/27/esp8266-com-micropython/
+
+```
+* https://fazerlab.wordpress.com/2017/10/27/esp8266-com-micropython
 * http://docs.micropython.org/en/latest/esp8266/esp8266/tutorial/intro.html
 * http://micropython.org/download
 * https://github.com/jpmens/mqttwarn
@@ -41,4 +68,4 @@
 * https://nodered.org
 * https://github.com/node-red/node-red
 * https://nodered.org/docs/platforms/docker
-´´´
+```
