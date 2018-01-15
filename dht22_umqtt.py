@@ -12,7 +12,7 @@ import dht
 d = dht.DHT22(machine.Pin(4))
 d.measure()
 
-mq = MQTTClient("monar", "canionlabs.io", 1883, "monar", "@#monar@#")
+mq = MQTTClient("user", "mosquitto.org", 1883, "monar", "password)
 mq.connect()
 
 while True:
