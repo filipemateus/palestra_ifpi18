@@ -1,0 +1,975 @@
+{
+  "slides": [
+    {
+      "components": [
+        {
+          "src": "https://i.imgur.com/ZOpOYFs.png",
+          "type": "Image",
+          "x": 121,
+          "y": 172,
+          "scale": {
+            "x": 0.45253348864298193,
+            "y": 0.45253348864298193,
+            "width": 777,
+            "height": 411.80547466511354
+          },
+          "imageType": "PNG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 0,
+      "selected": false,
+      "active": false,
+      "x": 180,
+      "y": 180
+    },
+    {
+      "components": [
+        {
+          "src": "https://i.imgur.com/ZOpOYFs.png",
+          "type": "Image",
+          "x": 11,
+          "y": -5,
+          "scale": {
+            "x": 0.1525917297612114,
+            "y": 0.1525917297612114,
+            "width": 262,
+            "height": 138.85847408270237
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": -31,
+          "y": 338,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<font face=\"Ubuntu\">Desenvolvendo soluções baseada em <br>nuvem para internet das coisas - IoT</font><br>",
+          "size": 66,
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": -1.18,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 1,
+      "selected": false,
+      "active": false,
+      "x": 391,
+      "y": 439
+    },
+    {
+      "components": [
+        {
+          "src": "https://i.imgur.com/ZOpOYFs.png",
+          "type": "Image",
+          "x": 11,
+          "y": -5,
+          "scale": {
+            "x": 0.1525917297612114,
+            "y": 0.1525917297612114,
+            "width": 262,
+            "height": 138.85847408270237
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 426,
+          "y": 122,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<font face=\"Ubuntu\">whoami</font>",
+          "size": 67,
+          "selected": false
+        },
+        {
+          "src": "https://i.imgur.com/zQs99FH.jpg",
+          "type": "Image",
+          "x": 17,
+          "y": 228,
+          "scale": {
+            "x": 0.24814814814814812,
+            "y": 0.24814814814814812,
+            "width": 267.99999999999994,
+            "height": 476.4444444444444
+          },
+          "imageType": "JPG",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 335,
+          "y": 332,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<font face=\"Ubuntu\">* IoT professional<br>* DevOps<br>* Businessman<br>* Linux and Open SW/HR lover<br></font>",
+          "size": 48,
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0.14,
+      "rotateZ": -1.56,
+      "index": 2,
+      "selected": false,
+      "active": false,
+      "x": 648,
+      "y": 189
+    },
+    {
+      "components": [
+        {
+          "src": "https://i.imgur.com/ZOpOYFs.png",
+          "type": "Image",
+          "x": 11,
+          "y": -5,
+          "scale": {
+            "x": 0.1525917297612114,
+            "y": 0.1525917297612114,
+            "width": 262,
+            "height": 138.85847408270237
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "src": "https://image.slidesharecdn.com/gettingstartedwithdockerononlinelabsc1-141222061612-conversion-gate01/95/getting-started-with-docker-on-scaleway-c1-1-638.jpg?cb=1435656114",
+          "type": "Image",
+          "x": 132,
+          "y": 137,
+          "scale": {
+            "x": 1.2695924764890283,
+            "y": 1.2695924764890283,
+            "width": 810,
+            "height": 608.1347962382446
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 3,
+      "selected": false,
+      "active": false,
+      "x": 885,
+      "y": 366
+    },
+    {
+      "components": [
+        {
+          "src": "https://i.imgur.com/ZOpOYFs.png",
+          "type": "Image",
+          "x": 11,
+          "y": -5,
+          "scale": {
+            "x": 0.1525917297612114,
+            "y": 0.1525917297612114,
+            "width": 262,
+            "height": 138.85847408270237
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "src": "https://image.slidesharecdn.com/gettingstartedwithdockerononlinelabsc1-141222061612-conversion-gate01/95/getting-started-with-docker-on-scaleway-c1-4-638.jpg?cb=1435656114",
+          "type": "Image",
+          "x": 120,
+          "y": 133,
+          "scale": {
+            "x": 1.2836990595611286,
+            "y": 1.2836990595611286,
+            "width": 819.0000000000001,
+            "height": 614.8918495297806
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 4,
+      "selected": false,
+      "active": false,
+      "x": 1139,
+      "y": 157
+    },
+    {
+      "components": [
+        {
+          "src": "https://image.slidesharecdn.com/gettingstartedwithdockerononlinelabsc1-141222061612-conversion-gate01/95/getting-started-with-docker-on-scaleway-c1-5-638.jpg?cb=1435656114",
+          "type": "Image",
+          "x": 135,
+          "y": 157,
+          "scale": {
+            "x": 1.2225705329153604,
+            "y": 1.2225705329153604,
+            "width": 780,
+            "height": 585.6112852664577
+          },
+          "imageType": "JPG",
+          "selected": false
+        },
+        {
+          "src": "https://i.imgur.com/ZOpOYFs.png",
+          "type": "Image",
+          "x": 11,
+          "y": -5,
+          "scale": {
+            "x": 0.1525917297612114,
+            "y": 0.1525917297612114,
+            "width": 262,
+            "height": 138.85847408270237
+          },
+          "imageType": "PNG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 1.59,
+      "index": 5,
+      "selected": false,
+      "active": false,
+      "x": 1372,
+      "y": 359
+    },
+    {
+      "components": [
+        {
+          "src": "https://image.slidesharecdn.com/gettingstartedwithdockerononlinelabsc1-141222061612-conversion-gate01/95/getting-started-with-docker-on-scaleway-c1-6-638.jpg?cb=1435656114",
+          "type": "Image",
+          "x": 130,
+          "y": 162,
+          "scale": {
+            "x": 1.2413793103448276,
+            "y": 1.2413793103448276,
+            "width": 792,
+            "height": 594.6206896551724
+          },
+          "imageType": "JPG",
+          "selected": false
+        },
+        {
+          "src": "https://i.imgur.com/ZOpOYFs.png",
+          "type": "Image",
+          "x": 11,
+          "y": -5,
+          "scale": {
+            "x": 0.1525917297612114,
+            "y": 0.1525917297612114,
+            "width": 262,
+            "height": 138.85847408270237
+          },
+          "imageType": "PNG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 6,
+      "selected": false,
+      "active": false,
+      "x": 1636,
+      "y": 98
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": -31,
+          "y": 327,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 67,
+          "text": "<font face=\"Ubuntu\"><b>Give me Realtime, or Give me Death!</b></font><br>",
+          "selected": false
+        },
+        {
+          "src": "https://i.imgur.com/ZOpOYFs.png",
+          "type": "Image",
+          "x": 12,
+          "y": -5,
+          "scale": {
+            "x": 0.1525917297612114,
+            "y": 0.1525917297612114,
+            "width": 262,
+            "height": 138.85847408270237
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": -131,
+          "y": 487,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 38,
+          "text": "<font face=\"Ubuntu\">Realtime experiences are becoming the defining trait of modern applications</font><br>",
+          "selected": false
+        },
+        {
+          "src": "https://www.pubnub.com/blog/moving-the-cloud-to-the-edge-computing/",
+          "type": "WebFrame",
+          "x": 14,
+          "y": 591,
+          "scale": {
+            "x": 0.19895833333333332,
+            "y": 0.19895833333333332,
+            "width": 191,
+            "height": 152.79999999999998
+          },
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 323,
+          "y": 691,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 33,
+          "text": "<font face=\"Ubuntu\"><a href=\"https://www.pubnub.com/blog/moving-the-cloud-to-the-edge-computing/\" target=\"_blank\">Moving the Cloud to the Edge</a></font><br>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 1.59,
+      "index": 7,
+      "selected": false,
+      "active": false,
+      "x": 1730,
+      "y": 338
+    },
+    {
+      "components": [
+        {
+          "src": "https://www.pubnub.com/wp-content/uploads/2017/06/edge-computing-diagram-1024x512.png",
+          "type": "Image",
+          "x": -27,
+          "y": 185,
+          "scale": {
+            "x": 1.0283203125,
+            "y": 1.0283203125,
+            "width": 1053,
+            "height": 526.5
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "src": "https://i.imgur.com/ZOpOYFs.png",
+          "type": "Image",
+          "x": 12,
+          "y": -5,
+          "scale": {
+            "x": 0.1525917297612114,
+            "y": 0.1525917297612114,
+            "width": 262,
+            "height": 138.85847408270237
+          },
+          "imageType": "PNG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 8,
+      "selected": false,
+      "active": false,
+      "x": 2076,
+      "y": 123
+    },
+    {
+      "components": [
+        {
+          "src": "https://image.slidesharecdn.com/vortex-fog-computing-webcastdec2014-141211070505-conversion-gate01/95/fog-computing-with-prismtech-vortex-10-638.jpg?cb=1418282138",
+          "type": "Image",
+          "x": 33,
+          "y": 173,
+          "scale": {
+            "x": 1.5047021943573666,
+            "y": 1.5047021943573666,
+            "width": 959.9999999999999,
+            "height": 540.1880877742947
+          },
+          "imageType": "JPG",
+          "selected": false
+        },
+        {
+          "src": "https://i.imgur.com/ZOpOYFs.png",
+          "type": "Image",
+          "x": 13,
+          "y": -5,
+          "scale": {
+            "x": 0.1525917297612114,
+            "y": 0.1525917297612114,
+            "width": 262,
+            "height": 138.85847408270237
+          },
+          "imageType": "PNG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 9,
+      "selected": false,
+      "active": false,
+      "x": 2283,
+      "y": 330
+    },
+    {
+      "components": [
+        {
+          "src": "https://i.imgur.com/ZOpOYFs.png",
+          "type": "Image",
+          "x": 13,
+          "y": -5,
+          "scale": {
+            "x": 0.1525917297612114,
+            "y": 0.1525917297612114,
+            "width": 262,
+            "height": 138.85847408270237
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": -27,
+          "y": 293,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 65,
+          "text": "<font face=\"Ubuntu\">Arquitetura orientada a micro serviços</font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 1.6,
+      "index": 10,
+      "selected": false,
+      "active": false,
+      "x": 2621,
+      "y": 326
+    },
+    {
+      "components": [
+        {
+          "src": "https://i.pinimg.com/originals/98/1b/89/981b89570cb0eac2a5e6694468c09b4b.png",
+          "type": "Image",
+          "x": 48,
+          "y": -9,
+          "scale": {
+            "x": 0.7527047913446676,
+            "y": 0.7527047913446676,
+            "width": 973.9999999999999,
+            "height": 781.307573415765
+          },
+          "imageType": "PNG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0.58,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 11,
+      "selected": false,
+      "active": false,
+      "x": 2972,
+      "y": 321
+    },
+    {
+      "components": [
+        {
+          "src": "http://46zwyrvli634e39iq2l9mv8g-wpengine.netdna-ssl.com/wp-content/uploads/2015/05/kpqesputhcwkh7oqvl7dlubj-2v47xa2gklgu18u6ivrsfvsqeq836gel7zp5ofasxpln776ukdajq9m60u6pm8wgjp_4xgwoe36kobzwp2_dn8cwjq_d40uysz4gdiadkpxbzamzthqf56v.png",
+          "type": "Image",
+          "x": -37,
+          "y": 154,
+          "scale": {
+            "x": 0.7871148459383753,
+            "y": 0.7871148459383753,
+            "width": 1124,
+            "height": 611.5882352941177
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "src": "https://i.imgur.com/ZOpOYFs.png",
+          "type": "Image",
+          "x": 13,
+          "y": -6,
+          "scale": {
+            "x": 0.12172393709959231,
+            "y": 0.12172393709959231,
+            "width": 209,
+            "height": 110.76878276062901
+          },
+          "imageType": "PNG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 12,
+      "selected": false,
+      "active": false,
+      "x": 3198,
+      "y": 542
+    },
+    {
+      "components": [
+        {
+          "src": "https://i.imgur.com/ZOpOYFs.png",
+          "type": "Image",
+          "x": 13,
+          "y": -5,
+          "scale": {
+            "x": 0.1525917297612114,
+            "y": 0.1525917297612114,
+            "width": 262,
+            "height": 138.85847408270237
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "src": "https://media.licdn.com/mpr/mpr/shrinknp_800_800/AAEAAQAAAAAAAAUQAAAAJDg1MGM2OWRlLTBiMTAtNDU4Yi1hNjc2LTc0NmVlOWE0OWYxMA.jpg",
+          "type": "Image",
+          "x": 4,
+          "y": 154,
+          "scale": {
+            "x": 1.3250000000000002,
+            "y": 1.3250000000000002,
+            "width": 1060.0000000000002,
+            "height": 594.9250000000001
+          },
+          "imageType": "JPG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 13,
+      "selected": false,
+      "active": false,
+      "x": 3500,
+      "y": 542
+    },
+    {
+      "components": [
+        {
+          "src": "https://www.allaboutcircuits.com/uploads/articles/Introduction-to-the-MQTT-Protocol-on-NodeMCU-(1).png",
+          "type": "Image",
+          "x": 19,
+          "y": 117,
+          "scale": {
+            "x": 0.5849849849849851,
+            "y": 0.5849849849849851,
+            "width": 974.0000000000001,
+            "height": 634.7087087087089
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "src": "https://i.imgur.com/ZOpOYFs.png",
+          "type": "Image",
+          "x": 12,
+          "y": -5,
+          "scale": {
+            "x": 0.1525917297612114,
+            "y": 0.1525917297612114,
+            "width": 262,
+            "height": 138.85847408270237
+          },
+          "imageType": "PNG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": -1.56,
+      "index": 14,
+      "selected": false,
+      "active": false,
+      "x": 3782,
+      "y": 535
+    },
+    {
+      "components": [
+        {
+          "src": "https://lh3.googleusercontent.com/eeiRFd_c2Gord82e_LGjOOsbvvK9zGIBgdoBZCnlVMUsBEycePON9XVk8CSc5tEN1g=h900-rw",
+          "type": "Image",
+          "x": 659,
+          "y": 160,
+          "scale": {
+            "x": 0.6629629629629632,
+            "y": 0.6629629629629632,
+            "width": 358.0000000000001,
+            "height": 596.6666666666669
+          },
+          "imageType": "COM/EEIRFD_C2GORD82E_LGJOOSBVVK9ZGIBGDOBZCNLVMUSBEYCEPON9XVK8CSC5TEN1G=H900-RW",
+          "selected": false
+        },
+        {
+          "src": "https://i.imgur.com/ZOpOYFs.png",
+          "type": "Image",
+          "x": 12,
+          "y": -5,
+          "scale": {
+            "x": 0.1525917297612114,
+            "y": 0.1525917297612114,
+            "width": 262,
+            "height": 138.85847408270237
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "src": "https://i.pinimg.com/originals/bc/f2/f1/bcf2f193ea172b7139b93e42f03f39fc.png",
+          "type": "Image",
+          "x": 12,
+          "y": 166,
+          "scale": {
+            "x": 0.8811881188118813,
+            "y": 0.8811881188118813,
+            "width": 623.0000000000001,
+            "height": 585.1089108910892
+          },
+          "imageType": "PNG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 15,
+      "selected": false,
+      "active": false,
+      "x": 4068,
+      "y": 524
+    },
+    {
+      "components": [
+        {
+          "src": "https://i.imgur.com/dRAXQ7W.jpg",
+          "type": "Image",
+          "x": 26,
+          "y": 233,
+          "scale": {
+            "x": 0.2820347714101739,
+            "y": 0.2820347714101739,
+            "width": 438.0000000000001,
+            "height": 462.8190598840954
+          },
+          "imageType": "JPG",
+          "selected": false
+        },
+        {
+          "src": "https://i.imgur.com/ZOpOYFs.png",
+          "type": "Image",
+          "x": 12,
+          "y": -5,
+          "scale": {
+            "x": 0.1525917297612114,
+            "y": 0.1525917297612114,
+            "width": 262,
+            "height": 138.85847408270237
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "src": "https://image.flaticon.com/icons/png/512/355/355977.png",
+          "type": "Image",
+          "x": 505,
+          "y": 307,
+          "scale": {
+            "x": 0.109375,
+            "y": 0.109375,
+            "width": 56,
+            "height": 56
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 594,
+          "y": 330,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 24,
+          "text": "<font face=\"Ubuntu\">@fmcavelino (https://t.me/fmcavelino)</font><br>",
+          "selected": false
+        },
+        {
+          "src": "https://www.greycon.com/wp-content/uploads/2015/09/icon-mail-light.png",
+          "type": "Image",
+          "x": 494,
+          "y": 389,
+          "scale": {
+            "x": 0.20750000000000002,
+            "y": 0.20750000000000002,
+            "width": 83,
+            "height": 83
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 597,
+          "y": 420,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 24,
+          "text": "<font face=\"Ubuntu\">filipe@canionlabs.io</font><br>",
+          "selected": false
+        },
+        {
+          "src": "http://www.freeiconspng.com/uploads/github-logo-icon-30.png",
+          "type": "Image",
+          "x": 494,
+          "y": 468,
+          "scale": {
+            "x": 0.35546875,
+            "y": 0.35546875,
+            "width": 91,
+            "height": 91
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 598,
+          "y": 496,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 24,
+          "text": "<font face=\"Ubuntu\">https://github.com/filipemateus</font><br>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 16,
+      "selected": true,
+      "active": true,
+      "x": 4328,
+      "y": 519
+    }
+  ],
+  "activeSlide": {
+    "components": [
+      {
+        "src": "https://i.imgur.com/dRAXQ7W.jpg",
+        "type": "Image",
+        "x": 26,
+        "y": 233,
+        "scale": {
+          "x": 0.2820347714101739,
+          "y": 0.2820347714101739,
+          "width": 438.0000000000001,
+          "height": 462.8190598840954
+        },
+        "imageType": "JPG",
+        "selected": false
+      },
+      {
+        "src": "https://i.imgur.com/ZOpOYFs.png",
+        "type": "Image",
+        "x": 12,
+        "y": -5,
+        "scale": {
+          "x": 0.1525917297612114,
+          "y": 0.1525917297612114,
+          "width": 262,
+          "height": 138.85847408270237
+        },
+        "imageType": "PNG",
+        "selected": false
+      },
+      {
+        "src": "https://image.flaticon.com/icons/png/512/355/355977.png",
+        "type": "Image",
+        "x": 505,
+        "y": 307,
+        "scale": {
+          "x": 0.109375,
+          "y": 0.109375,
+          "width": 56,
+          "height": 56
+        },
+        "imageType": "PNG",
+        "selected": false
+      },
+      {
+        "TextBox": {},
+        "x": 594,
+        "y": 330,
+        "scale": {
+          "x": 1,
+          "y": 1
+        },
+        "type": "TextBox",
+        "size": 24,
+        "text": "<font face=\"Ubuntu\">@fmcavelino (https://t.me/fmcavelino)</font><br>",
+        "selected": false
+      },
+      {
+        "src": "https://www.greycon.com/wp-content/uploads/2015/09/icon-mail-light.png",
+        "type": "Image",
+        "x": 494,
+        "y": 389,
+        "scale": {
+          "x": 0.20750000000000002,
+          "y": 0.20750000000000002,
+          "width": 83,
+          "height": 83
+        },
+        "imageType": "PNG",
+        "selected": false
+      },
+      {
+        "TextBox": {},
+        "x": 597,
+        "y": 420,
+        "scale": {
+          "x": 1,
+          "y": 1
+        },
+        "type": "TextBox",
+        "size": 24,
+        "text": "<font face=\"Ubuntu\">filipe@canionlabs.io</font><br>",
+        "selected": false
+      },
+      {
+        "src": "http://www.freeiconspng.com/uploads/github-logo-icon-30.png",
+        "type": "Image",
+        "x": 494,
+        "y": 468,
+        "scale": {
+          "x": 0.35546875,
+          "y": 0.35546875,
+          "width": 91,
+          "height": 91
+        },
+        "imageType": "PNG",
+        "selected": false
+      },
+      {
+        "TextBox": {},
+        "x": 598,
+        "y": 496,
+        "scale": {
+          "x": 1,
+          "y": 1
+        },
+        "type": "TextBox",
+        "size": 24,
+        "text": "<font face=\"Ubuntu\">https://github.com/filipemateus</font><br>",
+        "selected": false
+      }
+    ],
+    "z": 0,
+    "impScale": 3,
+    "rotateX": 0,
+    "rotateY": 0,
+    "rotateZ": 0,
+    "index": 16,
+    "selected": true,
+    "active": true,
+    "x": 4328,
+    "y": 519
+  },
+  "fileName": "talk_mambee_15012018",
+  "deckVersion": "1.0",
+  "customBackgrounds": {
+    "bgs": []
+  }
+}
